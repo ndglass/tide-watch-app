@@ -1,0 +1,7 @@
+{
+  "name": "TideWatch",
+  "description": "A sophisticated tide tracking calendar that helps coastal anglers find the perfect window when tides reach specific thresholds, powered by NOAA data and AI station discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
